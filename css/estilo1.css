@@ -1,0 +1,67 @@
+  img#img1
+  {
+  	width: 1060px; height: 150px;
+    display: flex;
+    animation: slide 10s infinite;
+    animation-delay: all 10s;
+   
+  }
+  img#img1:hover
+  {
+    box-shadow: 3px 3px 6px rgba(0,0,0,0.5);
+  }
+  img#img2
+  {
+  	width: 280px; height: 150px;
+  }
+   img#img2:hover
+  {
+    box-shadow: 3px 3px 6px rgba(0,0,0,0.5);
+  }
+  img#img3
+  {
+  	width: 360px; height: 150px;
+  }
+   img#img3:hover
+  {
+    box-shadow: 3px 3px 6px rgba(0,0,0,0.5);
+  }
+  img#img4
+  {
+  	width: 400px; height: 150px;
+  }
+   img#img4:hover
+  {
+    box-shadow: 3px 3px 6px rgba(0,0,0,0.5);
+  }
+  img#img5
+  {
+  	width: 350px; height: 150px;
+  }
+   img#img5:hover
+  {
+    box-shadow: 3px 3px 6px rgba(0,0,0,0.5);
+  }
+  img#img6
+  {
+  	width: 700px; height: 150px;
+  }
+   img#img6:hover
+  {
+    box-shadow: 3px 3px 6px rgba(0,0,0,0.5);
+  }
+  img#img7
+  {
+  	width: 710px; height: 150px;
+  } img#img7:hover
+  {
+    box-shadow: 3px 3px 6px rgba(0,0,0,0.5);
+  }
+  img#img8
+  {
+  	width: 338px; height: 150px;
+  }
+   img#img8:hover
+  {
+    box-shadow: 3px 3px 6px rgba(0,0,0,0.5);
+  }

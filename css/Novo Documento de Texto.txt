@@ -1,0 +1,94 @@
+body
+{	width: 1080px; height: 900px;
+	margin: 0px; background-color: #040404; border: 3px solid #2fe3f8;
+	text-decoration-color: solid white;
+}
+div#header
+  {
+  	background-color: white;
+  	text-decoration-color: blue;
+  	width: 1070px; height: 30px;
+  	margin:3px;
+  }
+  div#Conteudo
+  {
+  	background-color: white;
+  	text-decoration-color: white;
+  	width: 1070px; height: 700px;
+  	margin:3px; padding: 2px;
+  }
+  section#s1
+  {
+  	background-color: white;
+  	text-decoration-color: blue;
+  	width: 1060px; height: 150px;
+  	margin:3px;
+  	float: left;
+  	border: 2px solid #2fe3f8;
+  }
+    section#s2
+  {
+  	background-color: white;
+  	text-decoration-color: blue;
+  	width: 280px; height: 150px;
+  	margin:3px;
+  	float: right;
+  	border: 2px solid #2fe3f8;
+  }
+   section#s3
+  {
+  	background-color: white;
+  	text-decoration-color: blue;
+  	width: 350px; height: 150px;
+  	margin:3px; float: left;
+  	border: 2px solid #2fe3f8;
+  }
+   section#s4
+  {
+  	background-color: white;
+  	text-decoration-color: blue;
+  	width: 400px; height: 150px;
+  	margin:3px; float: right;
+  	border: 2px solid #2fe3f8;
+  }
+    section#s5
+  {
+  	background-color: white;
+  	text-decoration-color: blue;
+  	width: 350px; height: 150px;
+  	margin:3px; float: left;
+  	border: 2px solid #2fe3f8;
+  }
+    section#s6
+  {
+  	background-color: white;
+  	text-decoration-color: blue;
+  	width: 700px; height: 150px;
+  	margin:3px; float: right;
+  	border: 2px solid #2fe3f8;
+  }
+    section#s7
+  {
+  	background-color: white;
+  	text-decoration-color: blue;
+  	width: 710px; height: 150px;
+  	margin:3px; float: left;
+  	border: 2px solid #2fe3f8;
+  }
+    section#s8
+  {
+  	background-color: white;
+  	text-decoration-color: blue;
+  	width: 338px; height: 150px;
+  	margin:3px; float: right;
+  	border: 2px solid #2fe3f8;
+  }
+    div#footer
+  {
+  	background-color: white;
+  	text-decoration-color: blue;
+  	width: 1070px; height: 80px;
+  	margin:3px;
+  	clear: both;
+  }
+  
